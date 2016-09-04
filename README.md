@@ -23,3 +23,5 @@ This thing also has headers that give a cliffnotes version of the chapter. If yo
 So that's it! I'm gonna provide some comedic feedback on the Bible and probably offend some Christians out there!!
 
 # HAVE FUN!!!!!!
+
+EDIT: I know that there isn't a folder for the New Testament yet. Aparantly You can't add an empty folder into github. :-/ Once I get there the folder should be there.
